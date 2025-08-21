@@ -10,7 +10,7 @@
 - :school: Software development student
 - :trophy: I’m currently learning Backend 
 - :technologist: My interest lies in front end web development
-- :email: Feel free to **reach me out** [![Send me Email]](mailto:AbrahamsNieves0602@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email]](AbrahamsNieves0602@gmail.com)
 - 👨‍💻 All of my projects are available at (https://github.com/Abrahams0602)
 
 ## 🛠️ My Skills
