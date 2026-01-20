@@ -9,7 +9,7 @@
 
 - :trophy:Senior Technician in Software Development
 - :technologist: My interest lies in front end web development
-- :email: Feel free to **reach me out** [![Send me Email]](AbrahamsNieves0602@gmail.com)
+- :email:My linkedin profile (www.linkedin.com/in/abrahams-nieves)
 - 👨‍💻 All of my projects are available at (https://github.com/Abrahams0602)
 
 ## 🛠️ My Skills
