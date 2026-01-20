@@ -7,8 +7,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Software development student
-- :trophy: I’m currently learning Backend 
+- :trophy:Senior Technician in Software Development
 - :technologist: My interest lies in front end web development
 - :email: Feel free to **reach me out** [![Send me Email]](AbrahamsNieves0602@gmail.com)
 - 👨‍💻 All of my projects are available at (https://github.com/Abrahams0602)
